@@ -92,3 +92,9 @@ h2 {
       .page-nav ul li a:visited {
         color: #6f717d;
       }
+
+a {
+  color: #6f717d;
+  font-weight: bold;
+  text-decoration: none;
+}
