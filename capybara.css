@@ -6,6 +6,7 @@ html, body {
 
 .page {
   background-color: white;
+  font-family: 'Open Sans', sans-serif;
 }
 
 .nav-header {
