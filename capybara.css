@@ -45,7 +45,7 @@ html, body {
 
 .page-content {
    margin-left: 200px;
-  max-width: 75ch;
+  width: 800px;
 }
 
 
