@@ -70,7 +70,8 @@ h2 {
 
 
 .page-nav {
- 
+ position: absolute;
+  left: 0px;
 }
 
   .page-nav ul {
